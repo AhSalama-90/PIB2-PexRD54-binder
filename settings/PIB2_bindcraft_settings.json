@@ -1,0 +1,12 @@
+{
+    "design_path": "/content/drive/MyDrive/BindCraft/PIB2_Round3/",
+    "binder_name": "PIB2",
+    "starting_pdb": "/content/PIB2_target_trimmed_LYSpatch_300-339.pdb",
+    "chains": "A",
+    "target_hotspot_residues": "A377-381",
+    "lengths": [
+        90,
+        130
+    ],
+    "number_of_final_designs": 100
+}
