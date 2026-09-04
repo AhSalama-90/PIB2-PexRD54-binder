@@ -36,4 +36,4 @@ Computational design stage complete. No experimental (wet-lab) validation has be
 
 ## Author
 
-Ahmed Salama — Biotechnology and Genetic Engineering, Helwan National University / AGERI
+Ahmed Salama — Biotechnology and Genetic Engineering, Helwan National University 
